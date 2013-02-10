@@ -1,0 +1,17 @@
+Download the following and place on the root folder of your sdcard (DO NOT EXTRACT ZIP FILES):
+
+http://forum.xda-developers.com/attachment.php?attachmentid=1288568&d=1346181805
+
+http://forum.xda-developers.com/attachment.php?attachmentid=1534485&d=1354579840
+
+Instructions:
+
+Boot into stock recovery (volume up+home+power), and select "apply update from external storage". Now select the cwm-touch-6.0.1.4-i9100.zip file you downloaded in previous step by using the volume up/down rocker to navigate and the power button to select option (this step gives a temporary flash that will disappear after reboot)
+
+Inside the newly flashed CWM recovery, select "install zip from sdcard". Now, scroll down to the Root.zip file and hit power button to select it. Once it's done, reboot.
+
+Now look in your app drawer for "Super SU"
+
+Open it and install the binaries.
+
+Now download "root checker" from the play store to check root status.
